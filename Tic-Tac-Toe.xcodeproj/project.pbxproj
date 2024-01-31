@@ -14,6 +14,8 @@
 		F9A014CF2B69AA0100150CCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9A014CE2B69AA0100150CCD /* Assets.xcassets */; };
 		F9A014D22B69AA0100150CCD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9A014D02B69AA0100150CCD /* LaunchScreen.storyboard */; };
 		F9A014DA2B69B02F00150CCD /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A014D92B69B02F00150CCD /* GridView.swift */; };
+		F9A014DE2B69E5B000150CCD /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A014DD2B69E5B000150CCD /* InfoView.swift */; };
+		F9A014E02B69F3CF00150CCD /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A014DF2B69F3CF00150CCD /* Grid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F9A014D12B69AA0100150CCD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9A014D32B69AA0100150CCD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9A014D92B69B02F00150CCD /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
+		F9A014DD2B69E5B000150CCD /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		F9A014DF2B69F3CF00150CCD /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				F9A014C52B69A9FD00150CCD /* AppDelegate.swift */,
 				F9A014C72B69A9FD00150CCD /* SceneDelegate.swift */,
 				F9A014C92B69A9FD00150CCD /* ViewController.swift */,
+				F9A014DF2B69F3CF00150CCD /* Grid.swift */,
+				F9A014DD2B69E5B000150CCD /* InfoView.swift */,
 				F9A014CB2B69A9FD00150CCD /* Main.storyboard */,
 				F9A014D92B69B02F00150CCD /* GridView.swift */,
 				F9A014CE2B69AA0100150CCD /* Assets.xcassets */,
@@ -144,7 +150,9 @@
 				F9A014CA2B69A9FD00150CCD /* ViewController.swift in Sources */,
 				F9A014C62B69A9FD00150CCD /* AppDelegate.swift in Sources */,
 				F9A014DA2B69B02F00150CCD /* GridView.swift in Sources */,
+				F9A014DE2B69E5B000150CCD /* InfoView.swift in Sources */,
 				F9A014C82B69A9FD00150CCD /* SceneDelegate.swift in Sources */,
+				F9A014E02B69F3CF00150CCD /* Grid.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
